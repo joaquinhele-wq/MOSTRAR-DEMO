@@ -1,0 +1,10 @@
+      ├─ div.world
+      │  ├─ img.scene-img.sky-img
+      │  ├─ header.site-header
+      │  ├─ div.back-stack
+      │  │  ├─ img.scene-img.back-img.back-four
+      │  │  ├─ section.sights-slider
+      │  │  │  └─ div.sights-track
+      │  │  │     └─ 5 × article.sight-card
+      │  │  └─ img.scene-img.back-img.back-bazaar
+      │  ├─ div.sights-controls
